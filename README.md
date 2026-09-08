@@ -30,3 +30,21 @@ The game randomly selects a word from a predefined list and gives the player a l
 
 ```bash
 python hangman.py
+
+## 🎯 Learning Concepts
+
+- Python variables
+- Strings
+- Lists
+- Loops
+- Conditional statements
+- Functions
+- User input
+- Random module
+- String manipulation
+- Basic game logic
+- Python programming fundamentals
+
+## 👩‍💻 Author
+
+Bhavya
